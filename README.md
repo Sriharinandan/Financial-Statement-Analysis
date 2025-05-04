@@ -4,22 +4,21 @@ This project performs automated financial ratio analysis of a company over two y
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📥 Upload Excel files containing financial statements
-- 📐 Calculate key ratios:
-  - Liquidity ratios (Current, Quick, etc.)
-  - Profitability ratios (Net Profit Margin, ROE, etc.)
-  - Turnover ratios (Inventory Turnover, Asset Turnover, etc.)
-  - Leverage ratios (Debt-Equity, Interest Coverage, etc.)
-- 📊 Generate percentage change between current and previous year
-- 📈 Dashboard with:
-  - Tabular display of ratio results
-  - Percentage change indicators
-  - Bar charts for visual comparison
-- 📌 Benchmarking of ratios with industry standards
+ Upload Excel files containing financial statements
+ *Calculate key ratios:
+  1. Liquidity ratios (Current, Quick, etc.)
+  2.Profitability ratios (Net Profit Margin, ROE, etc.)
+  3. Turnover ratios (Inventory Turnover, Asset Turnover, etc.)
+  4.Leverage ratios (Debt-Equity, Interest Coverage, etc.)
+  5. Generate percentage change between current and previous year
+  *Dashboard with:
+  a. Tabular display of ratio results
+  b. Percentage change indicators
+  c. Bar charts for visual comparison
+ *Benchmarking of ratios with industry standards
 
 ---
 
-## 📂 Project Structure
 
