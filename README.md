@@ -19,6 +19,9 @@ This project performs automated financial ratio analysis of a company over two y
   c. Bar charts for visual comparison
  *Benchmarking of ratios with industry standards
 
----
+## Project Presentation
+
+[Click here to download the PPT](./Financial Statement Analysis github.pptx)
+
 
 
