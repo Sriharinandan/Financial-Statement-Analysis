@@ -21,7 +21,7 @@ This project performs automated financial ratio analysis of a company over two y
 
 ## Project Presentation
 
-[Click here to download the PPT](./Financial Statement Analysis github.pptx)
+[Click here to download the PPT](./Financial_Statement_Analysis_github.pptx)
 
 
 
